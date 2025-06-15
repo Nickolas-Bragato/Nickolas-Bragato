@@ -9,7 +9,6 @@ I'm a Computer Engineering student focused on combining technology and social im
 - 🎓 **Bachelor's in Computer Engineering**  
   Adventist University of São Paulo (UNASP)
 - 🌍 **Programming Volunteer Teacher**  
-  [WINNERS Lebanon](https://www.instagram.com/winnersls/)  
   Teaching Python and computational concepts to underserved communities
 - 🧠 **Exploring Computational Neuroscience**  
   Studying brain computational models and neural signal processing
