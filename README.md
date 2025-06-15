@@ -30,10 +30,6 @@ I'm a Computer Engineering student focused on combining technology and social im
 ### Other Tools & Technologies
 [![My Skills](https://skillicons.dev/icons?i=linux,windows,figma,ai,autocad&perline=5)]()
 
-
-
-
-
 <!-- 
 - **Languages:** Python (Scientific focus: NumPy, SciPy, Pandas)
 - **Knowledge Areas:** 
@@ -45,7 +41,7 @@ I'm a Computer Engineering student focused on combining technology and social im
 
 ## 🌟 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nickolas-Bragato&repo=your-repo&theme=dark)](https://github.com/Nickolas-Bragato/Construcao-de-algoritmos-Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nickolas-Bragato&repo=Construcao-de-algoritmos-Python&theme=dark)](https://github.com/Nickolas-Bragato/Construcao-de-algoritmos-Python)
 
 
 ## 📊 GitHub Activity
