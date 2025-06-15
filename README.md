@@ -16,14 +16,33 @@ I'm a Computer Engineering student focused on combining technology and social im
 
 ## 💻 Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,git,github,linux)]()
+### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,cs,javascript&perline=5)]()
 
+### Web Development
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap&perline=5)]()
+
+### Development Tools & Productivity
+[![My Skills](https://skillicons.dev/icons?i=git,github,eclipse,visualstudio,vscode,notion,obsidian&perline=5)]()
+
+### Databases & Cloud
+[![My Skills](https://skillicons.dev/icons?i=mysql,firebase&perline=5)]()
+
+### Other Tools & Technologies
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,figma,ai,autocad&perline=5)]()
+
+
+
+
+
+<!-- 
 - **Languages:** Python (Scientific focus: NumPy, SciPy, Pandas)
 - **Knowledge Areas:** 
   - Algorithms and Data Structures
   - Hardware and IT Infrastructure
   - Biological Signal Processing
-  - Educational Project Management
+  - Educational Project Management 
+  -->
 
 ## 🌟 Featured Projects
 
