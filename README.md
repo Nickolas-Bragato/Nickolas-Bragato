@@ -4,7 +4,7 @@
 
 I'm a Computer Engineering student focused on combining technology and social impact. I've volunteered teaching programming and digital literacy in refugee communities while developing technical solutions for computational challenges. My mission is to contribute to technological advancement and explore neuroscience applications. 💡
 
-## 🚀 Current Work
+## 🚀 Most Recent Activities
 
 - 🎓 **Bachelor's in Computer Engineering**  
   Adventist University of São Paulo (UNASP)
