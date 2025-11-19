@@ -6,7 +6,7 @@ I'm a Computer Engineering student focused on combining technology and social im
 
 ## 🚀 Most Recent Activities
 
-- 🎓 **Bachelor's in Computer Engineering**  
+- 🎓 **Bachelor of Engineering in Computer Engineering**  
   Adventist University of São Paulo (UNASP)
 - 🌍 **Programming Volunteer Teacher**  
   Teaching Python and computational concepts to underserved communities
