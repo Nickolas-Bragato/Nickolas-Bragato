@@ -46,7 +46,7 @@ I'm a Computer Engineering student focused on combining technology and social im
 
 ## 📊 GitHub Activity
 
-![Nickolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nickolas-Bragato&show_icons=true&theme=dark&hide=contribs)
+![Nickolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nickolas-Bragato&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nickolas-Bragato&layout=compact&theme=dark)](https://github.com/Nickolas-Bragato)
 
