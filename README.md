@@ -28,7 +28,7 @@ I'm a Computer Engineering student focused on combining technology and social im
 [![My Skills](https://skillicons.dev/icons?i=mysql,firebase&perline=5)]()
 
 ### Other Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,figma,ai,autocad&perline=5)]()
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,figma,ai,autocad,photopea&perline=5)]()
 
 <!-- 
 - **Languages:** Python (Scientific focus: NumPy, SciPy, Pandas)
