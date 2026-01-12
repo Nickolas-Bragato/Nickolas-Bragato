@@ -41,16 +41,18 @@ I'm a Computer Engineering student focused on combining technology and social im
 
 ## 🌟 Featured Projects
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
 [![Readme Card](https://github-readme-stats-my-own-1.vercel.app/api/pin/?username=Nickolas-Bragato&repo=Construcao-de-algoritmos-Python&theme=dark)](https://github.com/Nickolas-Bragato/Construcao-de-algoritmos-Python)
 
 
 ## 📊 GitHub Activity
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Nickolas's GitHub stats" src="https://github-readme-stats-my-own-1.vercel.app/api?username=Nickolas-Bragato&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
 
 [![Nickolas's GitHub stats](https://github-readme-stats-my-own-1.vercel.app/api?username=Nickolas-Bragato&show_icons=true&theme=dark&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 ![Nickolas's GitHub stats](https://github-readme-stats-my-own-1.vercel.app/api?username=Nickolas-Bragato&show_icons=true&theme=dark&hide=contribs)
