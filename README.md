@@ -67,8 +67,6 @@ I've volunteered in the IT and educational fields in 4 different countries! 🇧
 
 ## 📊 GitHub Activity
 
-<img align="left" alt="Nickolas's GitHub stats" src="https://github-readme-stats-my-own-1.vercel.app/api?username=Nickolas-Bragato&show_icons=true&theme=dark&hide=contribs" />
-
 ![Nickolas's GitHub stats](https://github-readme-stats-my-own-1.vercel.app/api?username=Nickolas-Bragato&show_icons=true&theme=dark&hide=contribs)
 
 [![Top Langs](https://github-readme-stats-my-own-1.vercel.app/api/top-langs/?username=Nickolas-Bragato&layout=compact&theme=dark)](https://github.com/Nickolas-Bragato)
