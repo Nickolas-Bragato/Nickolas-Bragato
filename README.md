@@ -4,6 +4,7 @@
 
 I'm a Computer Engineering student focused on combining technology and social impact. I've volunteered teaching programming and digital literacy in refugee communities while developing technical solutions for computational challenges. My mission is to contribute to technological advancement and explore neuroscience applications. 💡
 
+
 ## 🚀 Most Recent Activities
 
 - 🎓 **Bachelor of Engineering in Computer Engineering**  
@@ -12,6 +13,25 @@ I'm a Computer Engineering student focused on combining technology and social im
   Teaching Python and computational concepts to underserved communities
 - 🧠 **Exploring Computational Neuroscience**  
   Studying brain computational models and neural signal processing
+
+---
+
+**🔭 Currently working on:**  
+Personal coding projects and computational neuroscience research  
+
+**🌱 Currently learning:**  
+Computational mathematics and Algorithms Theory  
+
+**👯 Looking to collaborate on:**  
+Any projects at the intersection of Computer Engineering and neuroscience as an intern 
+
+**💬 Ask me about:**  
+Programming for beginners, Robotics and Hardware, Computer Engineering career, or the basics of computational neuroscience  
+
+**⚡ Fun fact:**  
+I've volunteered in the IT and educational fields in 4 different countries! 🇧🇷🇱🇧🇪🇬🇯🇴
+
+---
 
 ## 💻 Technical Skills
 
@@ -47,14 +67,8 @@ I'm a Computer Engineering student focused on combining technology and social im
 
 ## 📊 GitHub Activity
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<img align="left" alt="Nickolas's GitHub stats" src="https://github-readme-stats-my-own-1.vercel.app/api?username=Nickolas-Bragato&show_icons=true&theme=dark&hide=contribs" />
 
-  <img align="left" alt="Nickolas's GitHub stats" src="https://github-readme-stats-my-own-1.vercel.app/api?username=Nickolas-Bragato&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
-[![Nickolas's GitHub stats](https://github-readme-stats-my-own-1.vercel.app/api?username=Nickolas-Bragato&show_icons=true&theme=dark&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 ![Nickolas's GitHub stats](https://github-readme-stats-my-own-1.vercel.app/api?username=Nickolas-Bragato&show_icons=true&theme=dark&hide=contribs)
 
 [![Top Langs](https://github-readme-stats-my-own-1.vercel.app/api/top-langs/?username=Nickolas-Bragato&layout=compact&theme=dark)](https://github.com/Nickolas-Bragato)
@@ -65,19 +79,4 @@ I'm a Computer Engineering student focused on combining technology and social im
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/NickolasBragato)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nickolas.bragato1@gmail.com)
 
----
 
-**🔭 Currently working on:**  
-Personal coding projects and computational neuroscience research  
-
-**🌱 Currently learning:**  
-Computational mathematics and Algorithms Theory  
-
-**👯 Looking to collaborate on:**  
-Any projects at the intersection of Computer Engineering and neuroscience as an intern 
-
-**💬 Ask me about:**  
-Programming for beginners, Robotics and Hardware, Computer Engineering career, or the basics of computational neuroscience  
-
-**⚡ Fun fact:**  
-I've volunteered in the IT and educational fields in 4 different countries! 🇧🇷🇱🇧🇪🇬🇯🇴
