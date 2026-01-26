@@ -1,6 +1,6 @@
 # Hello! I am Nickolas Sponton Pires Bragato (Nickolas-Bragato) 👋
 
-✨ **Education Volunteer** at [WINNERS Lebanon](https://www.instagram.com/winnersls/) | Passionate about **Computational Neuroscience**, **Problem Solving**, **Technology** and **Coding**
+✨ **Computer Engineering student** at [UNASP - Campus Hortolândia](https://unasp.br/) | Passionate about **Computational Neuroscience**, **Problem Solving**, **Technology** and **Coding**
 
 I'm a Computer Engineering student focused on combining technology and social impact. I've volunteered teaching programming and digital literacy in refugee communities while developing technical solutions for computational challenges. My mission is to contribute to technological advancement and explore neuroscience applications. 💡
 
