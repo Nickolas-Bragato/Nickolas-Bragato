@@ -45,7 +45,7 @@ I've volunteered in the IT and educational fields in 4 different countries! 🇧
 [![My Skills](https://skillicons.dev/icons?i=git,github,eclipse,visualstudio,vscode,notion,obsidian&perline=5)]()
 
 ### Databases & Cloud
-[![My Skills](https://skillicons.dev/icons?i=mysql,firebase&perline=5)]()
+[![My Skills](https://skillicons.dev/icons?i=mysql,firebase,&perline=5)]()
 
 ### Other Tools & Technologies
 [![My Skills](https://skillicons.dev/icons?i=linux,windows,figma,ai,autocad,photopea&perline=5)]()
