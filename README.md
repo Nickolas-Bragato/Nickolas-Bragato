@@ -30,10 +30,10 @@ Programming for beginners, Robotics and Hardware, Computer Engineering career, o
 
 **⚡ Interesting fact:**  
 I've volunteered in the IT and educational fields in 4 different countries! 
-• ![Brazil]([https://flagcdn.com](https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/br.svg)) Brazil
-• ![Lebanon]([https://flagcdn.com](https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/lb.svg)) Lebanon
-• ![Egypt]([https://flagcdn.com](https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/eg.svg)) Egypt
-• ![Jordan]([https://flagcdn.com](https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/jo.svg)) Jordan
+• :brazil: Brazil
+• :lebanon: Lebanon
+• :egypt: Egypt
+• :jordan: Jordan
 
 ---
 
