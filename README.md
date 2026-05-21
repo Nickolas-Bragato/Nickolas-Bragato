@@ -28,8 +28,13 @@ Any projects at the intersection of Computer Engineering and neuroscience as an 
 **💬 Ask me about:**  
 Programming for beginners, Robotics and Hardware, Computer Engineering career, or the basics of computational neuroscience  
 
-**⚡ Fun fact:**  
-I've volunteered in the IT and educational fields in 4 different countries! 🇧🇷🇱🇧🇪🇬🇯🇴
+**⚡ Interesting fact:**  
+I've volunteered in the IT and educational fields in 4 different countries! 
+* :brazil: Brazil
+* :lebanon: Lebanon
+* :egypt: Egypt
+* :jordan: Jordan
+
 
 ---
 
